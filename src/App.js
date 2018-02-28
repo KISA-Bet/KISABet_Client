@@ -15,7 +15,7 @@ class App extends Component {
         </p>
         <div className="App-container">
           <p>How to play:</p>
-          <p>1. Send 1 (exact) to address " 0x3fcdcea917a1342648badf4cb976740c2ea5db9f " (TESTNET Ropsten at the moment)</p>
+          <p>1. Send 1 Ethereum (exact) to address " 0x3fcdcea917a1342648badf4cb976740c2ea5db9f " (TESTNET Ropsten at the moment)</p>
           <p>2. After 5 people have sent their bets, the contract chooses one address at random and pays 80 % of the total payout available to the winner</p>
           <p>3. The rest goes to: 
             <a href="https://www.givedirectly.org/">GiveDirectly</a>
